@@ -8,34 +8,48 @@ Task: Identify and remove suspicious browser extensions & set up a VPN.
 
 Objective: Understand VPN setup, encryption, and privacy implications.
 
-Tools Used: ProtonVPN (Free Tier)
+Tools Used: ProtonVPN 
 
 ✅ Steps Performed
 
-1. VPN Setup Process
+1️⃣ Identified Suspicious Extensions
+
+Reviewed installed browser extensions.
+
+Removed unnecessary/untrusted ones for improved security.
+
+2️⃣ VPN Setup Process
+
 Downloaded ProtonVPN from protonvpn.com/free-vpn.
+
 Created a free account and installed the client.
-Connected to a nearby server .
 
-2. Verified VPN Functionality
+Connected to a nearby server (India).
+
+3️⃣ Verified VPN Functionality
+
 Checked IP address before and after VPN connection using whatismyipaddress.com.
-
 
 🔐 VPN Encryption & Privacy Features
 
--- Uses AES-256 encryption and OpenVPN/WireGuard protocols.
--- Strict no-logs policy.
--- Includes kill switch and NetShield to block trackers.
+Uses AES-256 encryption and OpenVPN/WireGuard protocols.
+
+Strict no-logs policy.
+
+Includes kill switch and NetShield to block trackers.
 
 ✅ Benefits of VPN
 
--- Masks IP address and location.
--- Secures data on public Wi-Fi.
--- Bypasses geo-restrictions.
+Masks IP address and location.
+
+Secures data on public Wi-Fi.
+
+Bypasses geo-restrictions.
 
 ⚠️ Limitations
 
 Reduced speed due to encryption.
-Free plans have server and data limits.
-Cannot provide 100% anonymity.
 
+Free plans have server and data limits.
+
+Cannot provide 100% anonymity.
