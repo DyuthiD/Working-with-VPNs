@@ -23,15 +23,15 @@ Checked IP address before and after VPN connection using whatismyipaddress.com.
 
 🔐 VPN Encryption & Privacy Features
 
-Uses AES-256 encryption and OpenVPN/WireGuard protocols.
-Strict no-logs policy.
-Includes kill switch and NetShield to block trackers.
+-- Uses AES-256 encryption and OpenVPN/WireGuard protocols.
+-- Strict no-logs policy.
+-- Includes kill switch and NetShield to block trackers.
 
 ✅ Benefits of VPN
 
-Masks IP address and location.
-Secures data on public Wi-Fi.
-Bypasses geo-restrictions.
+-- Masks IP address and location.
+-- Secures data on public Wi-Fi.
+-- Bypasses geo-restrictions.
 
 ⚠️ Limitations
 
